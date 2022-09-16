@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "fullName": "pradnya",
+      "address": "banglore",
+      "phoneNumber": "796879586",
+      "email": "pradnya@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Nobita",
+      "address": "Tokiyo",
+      "phoneNumber": "905960904",
+      "email": "Nobita@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Mohan",
+      "address": "Mumbai",
+      "phoneNumber": "8948898454",
+      "email": "mohan@email.com"
+    }
+    
+  ]
